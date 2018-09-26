@@ -7,6 +7,6 @@
 * Apache HTTPS
 
 # Installation
-Clone the repository into /var/www/html and access via localhost/
+Clone the repository into /var/www/html and access via http://localhost/
 
 *** WIP
